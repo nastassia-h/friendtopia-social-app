@@ -1,4 +1,3 @@
-Friendtopia Social App
 Fullstack MERN Social Media application with registration/authorization, ability of making posts and friends, liking photos and watching comments. Dark and light mode
 
 Used libs and services: 
